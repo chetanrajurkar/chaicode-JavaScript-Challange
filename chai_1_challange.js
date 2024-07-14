@@ -1,3 +1,4 @@
+// day 1
 var a=4;
 console.log(typeof a);
 let b=4;
